@@ -1,4 +1,9 @@
-// Maze
+/*
+    William Clift
+    2 Decemeber 2019
+    Object-Oriented Design
+    Maze Project
+*/
 
 #ifndef Maze_H_
 #define Maze_H_

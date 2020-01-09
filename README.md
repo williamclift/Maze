@@ -1,3 +1,5 @@
 # Maze
 
 This application takes user input to determine the size of the matrix representing a maze and uses a randomized algorithm to create a solvable path through the matrix. Then, in a separate operation, the MazeSolver branches through the tunnels of the maze, searching for the end of the tunnel. It then outputs the path marked with 'x' in the most efficient way and outputs the each step.
+
+This project a set of algorithms that randomly generates and then solves a maze represented by a two-dimensional array. It demonstrates my ability to compartmentalize and execute an open-ended problem with many solutions and properly document an object-oriented software product. Currently, the algorithm is weighted to prefer a change in direction when solving the maze. This makes some assumptions about the way that the maze was created that I would like to omit. Rather, I am currently working on changing it to be a backtracking algorithm that takes a certain number of steps and analyzes the level of accuracy and efficiency that the certain set of steps adds to the final solution to execute an optimized path. 
